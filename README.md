@@ -26,4 +26,4 @@ A somple desktop application for generating secure passwords with an elegant and
 1. Install Java JDK and JavaFX SDK
 2. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+https://github.com/mtk339900/simple-java-password-generator.git
